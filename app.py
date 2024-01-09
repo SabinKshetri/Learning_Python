@@ -188,6 +188,6 @@
 # my_funcation("Email","data")
 
 def my_funcation(child3, child2, child1):
-    print("The younges child is:"+ child3)
+    print("The younges child is:"+ child2)
 my_funcation(child1="sarthak", child2="Suman", child3="Linux")
 
